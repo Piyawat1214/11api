@@ -116,8 +116,7 @@ def loop(pho):
 
 if __name__ == "__main__":
     exec=ThreadPoolExecutor(max_workers=10000)
-    
-    [+] | Spam SMS 2 Api
+      [+] | Spam SMS 2 Api
             [+] | Spam Call 2 Api\n\n\n\n""")
     pho = input("[!] Phone Number >> : ")
     i = int(input("[!] Amount SMS >> : "))
